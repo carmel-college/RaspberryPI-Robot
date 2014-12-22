@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-import smbus
+# import smbus (Saves installing extra stuff for TRPG tutorials... If needed uncomment this and install smbus software + turn on i2c)
 
 # ===========================================================================
 # Adafruit_I2C Class mod @cymplecy 29Oct13 error raises exception
