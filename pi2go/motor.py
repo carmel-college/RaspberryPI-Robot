@@ -69,6 +69,7 @@ try:
         elif keyp == ',' or keyp == '<':
             speed = max (0, speed-10)
             print 'Speed-', speed
+
         elif keyp == ' ':
             pi2go.stop()
             print 'Stop'
