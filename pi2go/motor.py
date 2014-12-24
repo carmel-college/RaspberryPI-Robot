@@ -2,9 +2,12 @@
 # In truth this program is very simple - the parts where it captures key presses is the daunting bit.
 # Try to work through it slowly and you'll soon understand!
 
+# Use the arrow keys to control the direction of the Pi2Go and use the 'greater than' and 'less than'
+# keys to edit the speed!
+
 import pi2go, time
 
-# Reading a button press from your keyboard
+# Reading a button press from your keyboard, don't worry about this too much!
 import sys
 import tty
 import termios
