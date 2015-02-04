@@ -1,20 +1,24 @@
-Robots!
-=====
+This is Carmel College's edit of this project that was started by www.theraspberrypiguy.com
 
-Robots are awesome. That is a fact. I am The Raspberry Pi Guy and I am going to show you how to build your first robot. That makes me awesome too. Deal with it ;-)
+Aim's of this project are:
 
-This repo accompanies my robotics series which can be found here: http://youtu.be/_hDy9WY5UM0
+1. An intuitive GUI to control the movement of the robot. In the forward, reverse, left and right direction.
+2. i) Real-time display of distance of nearest object using the sonar sensor.
+   ii) Real-time display of state of each infrared sensor.
+3. Using data from 2:
+   i) Generate a visual warning of any possible collision.
+   ii) On/off automatic obstacle avoidance movement.
+4. Control from a webpage (apache server).
+5. i) Control movement of attached video camera.
+   ii) Real-time stream from the attached video camera in GUI.
 
-Thanks for watching and don't forget to subscribe, like and share.
 
-Matt
+Project leader:
+Michael 
 
-The Raspberry Pi Guy
+The programmers in this project are:
+Erick Musembi, Brian and Thomas Mason.
 
-theraspberrypiguy@gmail.com
+Tester:
+Josh
 
-www.theraspberrypiguy.com
-
-www.youtube.com/theraspberrypiguy
-
-@RaspberryPiGuy1
